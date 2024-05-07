@@ -26,7 +26,7 @@ public class EdicolaTest {
     }
     
     /**
-     * Test of getNUM_MAX_GIORNALE method, of class Edificio.
+     * Test of getNUM_MAX_GIORNALE method, of class Edicola.
      */
     @Test
     public void testGetNUM_MAX_GIORNALE() 
@@ -43,7 +43,7 @@ public class EdicolaTest {
     
 
     /**
-     * Test of getnGiornaliPresenti method, of class Edificio.
+     * Test of getnGiornaliPresenti method, of class Edicola.
      */
     @Test
     public void testGetnGiornaliPresenti() 
@@ -58,7 +58,7 @@ public class EdicolaTest {
     }
 
     /**
-     * Test of getGiornale method, of class Edificio.
+     * Test of getGiornale method, of class Edicola.
      */
     @Test
     public void testGetGiornale() 
@@ -74,7 +74,7 @@ public class EdicolaTest {
     }
 
     /**
-     * Test of GetId method, of class Edificio.
+     * Test of GetId method, of class Edicola.
      */
     @Test
     public void testGetId() 
@@ -90,7 +90,7 @@ public class EdicolaTest {
     }
 
     /**
-     * Test of getNumGiornali method, of class Edificio.
+     * Test of getNumGiornali method, of class Edicola.
      */
     @Test
     public void testGetNumGiornali() 
